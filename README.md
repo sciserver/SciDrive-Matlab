@@ -1,3 +1,3 @@
 # SciScript-Matlab
-Matlab libraries for SciDrive, Jupyter Notebooks
+Matlab libraries for SciScript, Jupyter Notebooks
  
